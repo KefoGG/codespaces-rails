@@ -8,7 +8,7 @@
   },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "bundle install",
-  "postCreateCommand": "",
+  "Notcommand": "",
   "postAttachCommand": {
     "server": "rails server"
   },
